@@ -1,0 +1,17 @@
+#header h1, h2, h3{
+    color: white;
+    background-color: navy;
+    letter-spacing: 0.5em;
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+}
+
+#header h1 {
+    text-align: center;
+    border: 1px solid gray;
+}
+
+#header h2, h3{
+    text-align: left;
+}
