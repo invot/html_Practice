@@ -1,3 +1,11 @@
+HTML, body {
+ Margin: 0;
+ Padding: 0;
+ Border: none;
+ Box-sizing: border-box;
+}
+
+
 #header h1, h2, h3{
     color: white;
     background-color: navy;
