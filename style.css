@@ -10,6 +10,9 @@
 #header h1 {
     text-align: center;
     border: 1px solid gray;
+    display: inline-block;
+    padding: 0.25em;
+    margin: 0 0.5em;
 }
 
 #header h2, h3{
